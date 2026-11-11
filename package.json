@@ -1,0 +1,12 @@
+{
+  "name": "obsidian-intelligence",
+  "version": "1.0.0",
+  "description": "Public-source intelligence and accountability platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
